@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Jihye Choi (催智慧)
 
 # Is this the primary user of the site?
 superuser: true
