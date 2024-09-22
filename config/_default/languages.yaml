@@ -8,6 +8,21 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
+#한국어 설정
+ko:
+  languageCode: ko
+  contentDir: content/ko
+  title: 최지혜
+  params:
+    description: 한국어로 된 설명...
+  menu:
+    main:
+      - name: 홈 
+        url: '#about'
+        weight: 1
+
+
+
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
