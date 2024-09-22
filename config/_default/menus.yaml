@@ -7,6 +7,22 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
+  - name: Introduction #Resumé
     url: about/
     weight: 20
+    hasChildren: true
+  - parent: Introduction
+    name: Resumé
+    url: about/
+    weight: 21
+  - parent: Introduction
+    name: experience
+    url: about/experience/
+    weight: 22
+  - parent: Introduction
+    name: book
+    url: about/book/
+    weight: 23
+
+
+  
