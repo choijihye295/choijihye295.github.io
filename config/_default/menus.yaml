@@ -17,7 +17,7 @@ main:
     weight: 21
   - parent: Introduction
     name: experience
-    url: /experience/
+    url: experience/
     weight: 22
   - parent: Introduction
     name: book
