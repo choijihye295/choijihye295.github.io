@@ -14,13 +14,13 @@ main:
     url: projects/
     weight: 30
   - name: 경험
-    url: experience/
+    url: experiences/
     weight: 40
   - name: 독서
-    url: reading/
+    url: readings/
     weight: 50
   - name: 연락
-    url: contact/
+    url: contacts/
     weight: 60
 
     
