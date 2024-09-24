@@ -15,14 +15,7 @@ main:
     name: Resumé
     url: about/
     weight: 21
-  - parent: Introduction
-    name: experience
-    url: experience/
-    weight: 22
-  - parent: Introduction
-    name: book
-    url: book/
-    weight: 23
+  
 
 
   
