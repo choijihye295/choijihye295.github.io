@@ -44,8 +44,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    #link: 'about/#contact' # For a direct email link, use 
-    mailto: choijihye295@jbnu.ac.kr
+    link: 'about/#contact' # For a direct email link, use 
+    #mailto: choijihye295@jbnu.ac.kr
   - icon: github
     icon_pack: fab
     link: https://github.com/choijihye295
