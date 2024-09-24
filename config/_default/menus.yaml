@@ -10,4 +10,7 @@ main:
   - name: 소개
     url: about/
     weight: 20
+  - name: 프로젝트
+    url: about/
+    weight: 30
     
