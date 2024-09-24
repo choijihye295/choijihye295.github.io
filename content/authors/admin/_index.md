@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jihye Choi (催智慧)
+title: 최지혜 (催智慧)
 
 # Is this the primary user of the site?
 superuser: true
