@@ -11,10 +11,8 @@ main:
     url: about/
     weight: 20
     hasChildren: true
-  - parent: Introduction
-    name: Resumé
-    url: about/
-    weight: 21
+  
+  
   
 
 
