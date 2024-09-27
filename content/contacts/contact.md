@@ -28,3 +28,5 @@ content:
 design:
   columns: '1'
 ---
+<p>이메일: <strong><a href="mailto:choijihye295@jbnu.ac.kr">choijihye295@jbnu.ac.kr</a></strong></p>
+<p>아래 폼을 통해 저에게 이메일을 보낼 수 있습니다:</p>
