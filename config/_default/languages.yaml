@@ -6,10 +6,13 @@
 
 ko:
   languageCode: ko
+  weight: 1
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
-
+en:
+  languageCode: en
+  weight: 2
 
 
 
