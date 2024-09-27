@@ -4,5 +4,3 @@ title: "연락"
 draft: false
 ---
 
-
-{{< widget "contact" >}}
