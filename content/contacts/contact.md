@@ -17,16 +17,17 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  #form:
+    #provider: netlify
+    #formspree:
+      #id:
+    #netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      #captcha: false
 
 design:
   columns: '1'
 ---
+
 <p>이메일: <strong><a href="mailto:choijihye295@jbnu.ac.kr">choijihye295@jbnu.ac.kr</a></strong></p>
-<p>아래 폼을 통해 저에게 이메일을 보낼 수 있습니다:</p>
+<p>저에게 이메일을 보내고 싶으시면 위의 이메일 주소를 클릭하세요.</p>
