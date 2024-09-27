@@ -10,9 +10,24 @@ main:
   - name: 소개
     url: about/
     weight: 20
+
   - name: 프로젝트
     url: projects/
     weight: 30
+    hasChildren: true
+  - parent: 프로젝트
+    name: 전공수업
+    url: projects/project1/
+    weight: 31
+  - parent: 프로젝트
+    name: 교내대회
+    url: projects/project2/
+    weight: 32
+  - parent: 프로젝트
+    name: 그 외 
+    url: projects/project3/
+    weight: 33
+
   - name: 경험
     url: experiences/
     weight: 40
