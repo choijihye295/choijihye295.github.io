@@ -7,9 +7,9 @@ widget: reading
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
-title: 독서기록
+title: 독서기록 
 subtitle:
 
 # Date format for experience
@@ -22,26 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: org-x
+    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    date_end: ''
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: BEng Electronic Engineering
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
