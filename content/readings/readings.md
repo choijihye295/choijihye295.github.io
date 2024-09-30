@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
-widget: reading
+widget: experience
 
 # Activate this widget? true/false
 active: true
