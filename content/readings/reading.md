@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 독서기록 
+title: reading 
 subtitle:
 
 # Date format for experience
