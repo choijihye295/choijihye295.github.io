@@ -18,8 +18,7 @@ organizations:
   url: "https://www.jbnu.ac.kr/kor/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
+bio: 전북대학교 컴퓨터공학부 22학번
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
