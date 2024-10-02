@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 여행
+title: <i class="fa-solid fa-train"></i> 여행
 subtitle:
 
 # Date format for experience
