@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: <i class="fa-solid fa-person-chalkboard"></i> 세미나
 subtitle:
