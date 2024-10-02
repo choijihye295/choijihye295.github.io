@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 대외활동
+title: <i class="fa-solid fa-person-running"></i> 대외활동
 subtitle:
 
 # Date format for experience
