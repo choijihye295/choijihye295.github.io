@@ -26,7 +26,7 @@ content:
       #captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 <p>이메일: <strong><a href="mailto:choijihye295@jbnu.ac.kr">choijihye295@jbnu.ac.kr</a></strong></p>
