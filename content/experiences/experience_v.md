@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 봉사
+title: <i class="fa-solid fa-handshake-angle"></i> 봉사
 subtitle:
 
 # Date format for experience
