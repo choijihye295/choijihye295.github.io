@@ -12,11 +12,11 @@ ko:
       hasChildren: true
     - parent: 프로젝트
       name: 전공관련
-      url: /projects/major/
+      url: /major
       weight: 31
     - parent: 프로젝트
       name: 그 외
-      url: /projects/besides/
+      url: /besides
       weight: 32
     - name: 경험
       url: /experiences
@@ -42,11 +42,11 @@ en:
       hasChildren: true
     - parent: Projects
       name: Major
-      url: /projects/major/
+      url: /major
       weight: 31
     - parent: Projects
       name: Others
-      url: /projects/besides/
+      url: /besides
       weight: 32
     - name: Experience
       url: /experiences
