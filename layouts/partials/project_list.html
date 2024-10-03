@@ -1,0 +1,5 @@
+<div class="card-deck">
+    {{ range .Params.projects }}
+        {{ partial "project_card.html" . }}
+    {{ end }}
+</div>
