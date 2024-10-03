@@ -1,10 +1,18 @@
 ---
-title: 
+# Homepage
+title: "홈페이지"
 date: 2024-03-25
-type: landing
+type: widget_page
+
+# Homepage is headless, other widget pages are not.
+headless: true
 
 sections:
-  - block: slider
+  - block: intro
+    content:
+      page: "intro.md"  # intro.md를 포함
+
+  - block: landing
     content:
       slides:
         - title: <span style="font-size:70%">핀테크</span>
@@ -12,7 +20,7 @@ sections:
           align: center
           background:
             image:
-              filename: fintech.jpg 
+              filename: "images/fintech.jpg"  # static/images/fintech.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -23,7 +31,7 @@ sections:
           align: center
           background:
             image:
-              filename: web.jpg  
+              filename: "images/web.jpg"  # static/images/web.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -34,7 +42,7 @@ sections:
           align: center
           background:
             image:
-              filename: team.jpg
+              filename: "images/team.jpg"  # static/images/team.jpg
               filters:
                 brightness: 0.4
             position: center
