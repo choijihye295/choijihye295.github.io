@@ -4,10 +4,10 @@ ko:
       url: /
       weight: 10
     - name: 소개
-      url: about
+      url: /about
       weight: 20
     - name: 프로젝트
-      url: projects
+      url: /projects
       weight: 30
       hasChildren: true
     - parent: 프로젝트
@@ -19,11 +19,11 @@ ko:
       url: /projects/besides/
       weight: 33
     - name: 경험
-      url: experiences
+      url: /experiences
       weight: 40
     - name: 독서
-      url: readings
+      url: /readings
       weight: 50
     - name: 연락
-      url: contacts
+      url: /contacts
       weight: 60
