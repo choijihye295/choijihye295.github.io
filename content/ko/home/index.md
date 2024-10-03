@@ -12,5 +12,5 @@ sections:
 
   - block: landing
     content:
-      page: "home.md"  # landing.md를 포함
+      page: "ko/home.md"  # landing.md를 포함
 ---
