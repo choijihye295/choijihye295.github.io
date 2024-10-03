@@ -4,6 +4,10 @@ date: 2024-03-25
 type: landing
 
 sections:
+  - block: intro
+    content:
+      page: intro.md
+      
   - block: slider
     content:
       slides:
