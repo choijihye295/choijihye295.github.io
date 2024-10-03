@@ -4,4 +4,4 @@ projects:
   - "/ko/projects/project1/"
 ---
 
-{{ partial "projects_card.html" . }}
+
