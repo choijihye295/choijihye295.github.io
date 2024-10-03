@@ -10,12 +10,9 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 제목...
+title: 
 subtitle:
 
-banner:
-    caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-    image: 'project_c.jpg'
 # Date format
 #   Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
