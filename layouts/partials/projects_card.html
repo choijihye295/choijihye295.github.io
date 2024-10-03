@@ -1,6 +1,6 @@
-{{ $projects := .Params.projects }}
-<div class="projects-list">
+{{ $projects := .Params.projects }} <!-- projects는 major와 besides에서 가져온 데이터 -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   {{ range $projects }}
-    {{ partial "custom_card.html" . }}
+    {{ partial "custom_card.html" . }} <!-- 각 프로젝트 카드 호출 -->
   {{ end }}
 </div>

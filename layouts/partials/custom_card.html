@@ -3,7 +3,7 @@
       <div style="height: 200px; overflow: hidden;">
         {{ $resource := partial "blox-core/functions/get_featured_image.html" . }}
         {{ with $resource }}
-          {{ $image := .Resize "300x200" }} <!-- 카드 크기에 맞게 조정 -->
+          {{ $image := .Resize "300x200" }}
           {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
           <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" style="width: 100%; height: auto;" loading="lazy" />
         {{ end }}
