@@ -7,7 +7,14 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%"> 최지혜 </span>
-      text: <br><span style="font-size:125%">안녕하세요! 저는 전북대학교 컴퓨터공학부에 재학중이며, 핀테크에 관심이 있습니다!</span> 
+      text: |
+        <span style="font-size:125%;">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학중인 최지혜입니다!</span>
+        <br>
+        <span style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+          저에 대해 더 자세히 알고싶다면? [소개](/about/)를 클릭해주세요!
+        </span>
+        <br><br>
+        {{% cta cta_link="./about/" cta_text="소개" %}} 
 
   - block: slider
     content:
@@ -51,4 +58,6 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
+
+  
 ---
