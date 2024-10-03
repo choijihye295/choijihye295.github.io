@@ -46,4 +46,7 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
+
+content:
+    - "간단테스트"
 ---
