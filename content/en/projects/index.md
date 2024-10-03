@@ -1,6 +1,6 @@
 ---
 type: widget_page
-title: "그 외"
+title: "프로젝트"
 draft: false
 ---
 
