@@ -4,4 +4,4 @@ projects:
   - "/projects/project1/"
 ---
 
-{{ partial "projects_card.html" . }}
+{{ partial "custom_card.html" . }}
