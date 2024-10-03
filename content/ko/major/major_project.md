@@ -28,23 +28,23 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: 객체지향 프로그래밍
-    organization_url: https://www.coursera.org
+    organization_url: ''
     title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    url: 'https://bead-hornet-56a.notion.site/java-team-project-2023-05-06-15-d63c3805214240cdbf6abef23f77a7ea?pvs=4'
+  - certificate_url: ''
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
-    organization_url: https://www.edx.org
+    organization_url: ''
     title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+    url: ''
+  - certificate_url: ''
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
     organization: DataCamp
-    organization_url: https://www.datacamp.com
+    organization_url: ''
     title: 'Object-Oriented Programming in R'
     url: ''
 
