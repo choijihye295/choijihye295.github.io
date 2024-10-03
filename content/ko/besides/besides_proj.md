@@ -7,10 +7,10 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 전공 외 수업...
+title: 그외
 subtitle:
 
 # Date format
@@ -47,7 +47,6 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
-
 
 design:
   columns: '1'

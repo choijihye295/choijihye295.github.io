@@ -1,5 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the About widget.
 # Documentation: https://docs.hugoblox.com/page-builder/
 widget: accomplishments
 
@@ -12,6 +12,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: 그 외 다양한 분야의 프로젝트
----
+title: 그외 프로젝트
 
+---
