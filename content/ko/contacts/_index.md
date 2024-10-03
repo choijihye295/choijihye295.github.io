@@ -6,7 +6,7 @@ draft: false
 # 이 페이지의 특정 디자인이나 배너를 설정할 수 있습니다.
 banner:
   image: 'images/contact_banner.jpg' # 필요 시 배너 이미지 경로
-  caption: "연락처 정보" # 필요 시 캡션 추가
+  caption: "unsplash" # 필요 시 캡션 추가
 ---
 
 
