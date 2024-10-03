@@ -12,7 +12,7 @@ sections:
           align: center
           background:
             image:
-              filename: "images/fintech.jpg"  # 이미지 경로 확인
+              filename: fintech.jpg 
               filters:
                 brightness: 0.4
             position: center
@@ -23,7 +23,7 @@ sections:
           align: center
           background:
             image:
-              filename: "images/web.jpg"  # 이미지 경로 확인
+              filename: web.jpg  
               filters:
                 brightness: 0.4
             position: center
@@ -34,7 +34,7 @@ sections:
           align: center
           background:
             image:
-              filename: "images/team.jpg"  # 이미지 경로 확인
+              filename: team.jpg
               filters:
                 brightness: 0.4
             position: center
@@ -43,10 +43,7 @@ sections:
     design:
       slide_height: '350px'
       slide_width: '100px'
-      is_fullscreen: false
+      is_fullscreen: true
       loop: true
       interval: 3000
-
-content:
-    - "간단테스트"
 ---
