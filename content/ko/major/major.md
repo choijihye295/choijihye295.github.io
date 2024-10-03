@@ -14,4 +14,8 @@ weight: 10
 
 title: 전공 프로젝트 
 
+banner:
+  image: "images/project_c.jpg" # 이미지 경로
+  caption: "Unsplash" # 선택 사항
+
 ---
