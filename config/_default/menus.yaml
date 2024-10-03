@@ -1,61 +1,59 @@
-main:
-  - name: 홈
-    url: /
-    weight: 10
-  - name: 소개
-    url: /about/
-    weight: 20
+ko:
+  main:
+    - name: 홈
+      url: /
+      weight: 10
+    - name: 소개
+      url: /about/
+      weight: 20
+    - name: 프로젝트
+      url: /projects/
+      weight: 30
+      hasChildren: true
+    - parent: 프로젝트
+      name: 전공관련
+      url: /major/
+      weight: 31
+    - parent: 프로젝트
+      name: 그 외
+      url: /besides/
+      weight: 33
+    - name: 경험
+      url: /experiences/
+      weight: 40
+    - name: 독서
+      url: /readings/
+      weight: 50
+    - name: 연락
+      url: /contacts/
+      weight: 60
 
-  - name: 프로젝트
-    url: /projects/
-    weight: 30
-    hasChildren: true
-  - parent: 프로젝트
-    name: 전공관련
-    url: /major/
-    weight: 31
-  - parent: 프로젝트
-    name: 그 외 
-    url: /besides/
-    weight: 33
-
-  - name: 경험
-    url: /experiences/
-    weight: 40
-  - name: 독서
-    url: /readings/
-    weight: 50
-  - name: 연락
-    url: /contacts/
-    weight: 60
-
-main:
-  - name: home
-    url: /
-    weight: 10
-  - name: about
-    url: /about/
-    weight: 20
-
-  - name: project
-    url: /projects/
-    weight: 30
-    hasChildren: true
-  - parent: project
-    name: major
-    url: /major/
-    weight: 31
-  - parent: project
-    name: beside 
-    url: /besides/
-    weight: 33
-
-  - name: experience
-    url: /experiences/
-    weight: 40
-  - name: book
-    url: /readings/
-    weight: 50
-  - name: contact
-    url: /contacts/
-    weight: 60
+en:
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: About
+      url: /about/
+      weight: 20
+    - name: Projects
+      url: /projects/
+      weight: 30
+      hasChildren: true
+    - parent: Projects
+      name: Major
+      url: /major/
+      weight: 31
+    - parent: Projects
+      name: Others
+      url: /besides/
+      weight: 33
+    - name: Experience
+      url: /experiences/
+      weight: 40
+    - name: Readings
+      url: /readings/
+      weight: 50
+    - name: Contact
+      url: /contacts/
+      weight: 60
