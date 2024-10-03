@@ -3,6 +3,10 @@ title:
 date: 2024-03-25
 type: landing
 
+banner:
+  image: "images/project_c.jpg" # 이미지 경로
+  caption: "Unsplash" # 선택 사항
+
 sections:
   - block: features
     content:
