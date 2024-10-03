@@ -17,7 +17,7 @@ ko:
     - parent: 프로젝트
       name: 그 외
       url: /projects/besides/
-      weight: 33
+      weight: 32
     - name: 경험
       url: /experiences
       weight: 40
