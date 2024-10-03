@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%"> 최지혜 </span>
-      text: <br><span style="font-size:100%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학중인 최지혜입니다! </span> 
+      text: <br><span style="font-size:130%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학중인 최지혜입니다! </span> 
 
   - block: slider
     content:
