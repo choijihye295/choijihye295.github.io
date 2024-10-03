@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ partial "banner.html" . }}  <!-- 배너 포함 -->
+  
+  <div class="content">
+    {{ .Content | safeHTML }}  <!-- 페이지 내용 포함 -->
+  </div>
+{{ end }}

@@ -1,0 +1,30 @@
+{{ if .Params.banner }}
+<div class="banner">
+  <img src="{{ .Params.banner | relURL }}" alt="배너 이미지" class="img-fluid">
+  <div class="caption">
+    {{ with .Params.caption }}{{ . | markdownify }}{{ end }}
+  </div>
+</div>
+{{ end }}
+
+<style>
+.banner {
+  position: relative;
+  text-align: center;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+}
+</style>
