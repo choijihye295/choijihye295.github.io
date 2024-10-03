@@ -2,54 +2,10 @@ ko:
   main:
     - name: 홈
       url: /
-      weight: 10
-    - name: 소개
-      url: /about
-      weight: 20
-    - name: 프로젝트
-      url: /projects
-      weight: 30
-      hasChildren: true
-    - name: 전공관련
-      url: /major  # 변경된 URL
-      weight: 31
-    - name: 그 외
-      url: /besides  # 변경된 URL
-      weight: 32
-    - name: 경험
-      url: /experiences
-      weight: 40
-    - name: 독서
-      url: /readings
-      weight: 50
-    - name: 연락
-      url: /contacts
-      weight: 60
+      weight: 1
 
 en:
   main:
     - name: Home
       url: /
-      weight: 10
-    - name: About
-      url: /about
-      weight: 20
-    - name: Projects
-      url: /projects
-      weight: 30
-      hasChildren: true
-    - name: Major
-      url: /major  # 변경된 URL
-      weight: 31
-    - name: Others
-      url: /besides  # 변경된 URL
-      weight: 32
-    - name: Experience
-      url: /experiences
-      weight: 40
-    - name: Readings
-      url: /readings
-      weight: 50
-    - name: Contact
-      url: /contacts
-      weight: 60
+      weight: 1
