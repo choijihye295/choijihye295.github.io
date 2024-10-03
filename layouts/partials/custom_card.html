@@ -1,17 +1,17 @@
-<div class="project-card">
-    <a href="{{ .RelPermalink }}" class="card-link">
-      <div class="card-image">
+<div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin: 15px; width: 300px; display: inline-block; vertical-align: top; transition: transform 0.2s;">
+    <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">
+      <div style="height: 200px; overflow: hidden;">
         {{ $resource := partial "blox-core/functions/get_featured_image.html" . }}
         {{ with $resource }}
-          {{ $image := .Resize "550x" }}
+          {{ $image := .Resize "300x200" }} <!-- 카드 크기에 맞게 조정 -->
           {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
+          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" style="width: 100%; height: auto;" loading="lazy" />
         {{ end }}
       </div>
-      <div class="card-content">
-        <h4 class="card-title">{{ .Title }}</h4>
+      <div style="padding: 15px;">
+        <h4 style="margin: 0; font-size: 1.2em;">{{ .Title }}</h4>
         {{ if .Params.summary }}
-          <p class="card-summary">{{ .Params.summary }}</p>
+          <p style="color: #555; font-size: 0.9em; margin-top: 5px;">{{ .Params.summary }}</p>
         {{ end }}
       </div>
     </a>
