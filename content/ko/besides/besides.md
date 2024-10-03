@@ -15,4 +15,3 @@ weight: 10
 title: 그 외 다양한 분야의 프로젝트
 ---
 
-{{< widget "besides_project.md" >}}
