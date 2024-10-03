@@ -1,0 +1,19 @@
+<div class="project-card">
+    <a href="{{ .RelPermalink }}" class="card-link">
+      <div class="card-image">
+        {{ $resource := partial "blox-core/functions/get_featured_image.html" . }}
+        {{ with $resource }}
+          {{ $image := .Resize "550x" }}
+          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" loading="lazy" />
+        {{ end }}
+      </div>
+      <div class="card-content">
+        <h4 class="card-title">{{ .Title }}</h4>
+        {{ if .Params.summary }}
+          <p class="card-summary">{{ .Params.summary }}</p>
+        {{ end }}
+      </div>
+    </a>
+  </div>
+  

@@ -1,4 +1,4 @@
-{{ $projects := .Params.projects }} <!-- projects는 major와 besides에서 가져온 데이터 -->
+{{ $projects := .Params.projects }}
 <div class="projects-list">
   {{ range $projects }}
     {{ partial "custom_card.html" . }}
