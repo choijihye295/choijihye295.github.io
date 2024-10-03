@@ -17,7 +17,7 @@ main:
     url: /major/
     weight: 31
   - parent: project
-    name: beside 
+    name: beside
     url: /besides/
     weight: 33
 
