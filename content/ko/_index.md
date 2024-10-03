@@ -4,10 +4,12 @@ date: 2024-03-25
 type: landing
 
 sections:
-  - block: intro
+   - block: features
     content:
-      page: intro.md
-      
+      title: <span style="font-size:70%"> 최지혜 </span>
+      text: <br><span style="font-size:125%">안녕하세요! 저는 전북대학교 컴퓨터공학부에 재학중이며, 핀테크에 관심이 있습니다!</span> 
+
+
   - block: slider
     content:
       slides:
