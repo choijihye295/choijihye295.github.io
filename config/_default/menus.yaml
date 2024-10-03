@@ -27,3 +27,33 @@ ko:
     - name: 연락
       url: /contacts
       weight: 60
+
+en:
+  main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: About
+      url: /about
+      weight: 20
+    - name: Projects
+      url: /projects
+      weight: 30
+      hasChildren: true
+    - parent: Projects
+      name: Major
+      url: /projects/major/
+      weight: 31
+    - parent: Projects
+      name: Others
+      url: /projects/besides/
+      weight: 32
+    - name: Experience
+      url: /experiences
+      weight: 40
+    - name: Readings
+      url: /readings
+      weight: 50
+    - name: Contact
+      url: /contacts
+      weight: 60
