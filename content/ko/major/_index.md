@@ -8,4 +8,3 @@ banner:
     image: 'project_c.jpg'
 ---
 
-
