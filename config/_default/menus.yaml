@@ -16,13 +16,9 @@ main:
     weight: 30
     hasChildren: true
   - parent: 프로젝트
-    name: 전공수업
+    name: 전공관련
     url: projects/major/
     weight: 31
-  - parent: 프로젝트
-    name: 대회
-    url: projects/contest/
-    weight: 32
   - parent: 프로젝트
     name: 그 외 
     url: projects/besides/
