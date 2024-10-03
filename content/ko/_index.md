@@ -9,6 +9,7 @@ sections:
       title: <span style="font-size:70%"> 최지혜 </span>
       text: <br><span style="font-size:130%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학중인 최지혜입니다! </span> 
 
+#모든 이미지는 unsplash에서 다운로드 받았습니다. 
   - block: slider
     content:
       slides:
