@@ -1,30 +1,80 @@
-main:
-  - name: 홈
-    url: /
-    weight: 10
-  - name: 소개
-    url: about/
-    weight: 20
+# Korean Menu
+ko:
+  main:
+    - name: 홈
+      url: /
+      weight: 10
+    - name: 소개
+      url: ko/about/
+      weight: 20
+    - name: 프로젝트
+      url: ko/projects/
+      weight: 30
+      hasChildren: true
+    - parent: 프로젝트
+      name: 전공관련
+      url: ko/projects/major/
+      weight: 31
+    - parent: 프로젝트
+      name: 그 외 
+      url: ko/projects/besides/
+      weight: 33
+    - name: 경험
+      url: ko/experiences/
+      weight: 40
+    - name: 독서
+      url: ko/readings/
+      weight: 50
+    - name: 연락
+      url: ko/contacts/
+      weight: 60
 
-  - name: 프로젝트
-    url: projects/
-    weight: 30
-    hasChildren: true
-  - parent: 프로젝트
-    name: 전공관련
-    url: projects/major/
-    weight: 31
-  - parent: 프로젝트
-    name: 그 외 
-    url: projects/besides/
-    weight: 33
-
-  - name: 경험
-    url: experiences/
-    weight: 40
-  - name: 독서
-    url: readings/
-    weight: 50
-  - name: 연락
-    url: contacts/
-    weight: 60
+# English Menu
+en:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: en/about/
+      weight: 100
+    - name: People
+      url: en/people/
+      weight: 200
+    - parent: People
+      name: Professor
+      url: /author/이경수/
+      weight: 210
+    - parent: People
+      name: Members
+      url: en/people/
+      weight: 220
+    - name: Research
+      url: en/publication/
+      weight: 300
+    - parent: Research
+      name: Publications
+      url: en/publication/
+      weight: 310
+    - parent: Research
+      name: Research Fields
+      url: en/field/
+      weight: 320
+    - name: Inform
+      url: en/post/
+      weight: 600
+    - parent: Inform
+      name: Notifications
+      url: en/notification/
+      weight: 610
+    - parent: Inform
+      name: News
+      url: en/post/
+      weight: 620
+    - parent: Inform
+      name: Event
+      url: en/event/
+      weight: 630
+    - name: Contact
+      url: en/contact/
+      weight: 700
