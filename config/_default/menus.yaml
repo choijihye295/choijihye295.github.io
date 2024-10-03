@@ -1,11 +1,30 @@
-ko:
-  main:
-    - name: 홈
-      url: /
-      weight: 1
+main:
+  - name: 홈
+    url: /
+    weight: 10
+  - name: 소개
+    url: ko/about/
+    weight: 20
 
-en:
-  main:
-    - name: Home
-      url: /
-      weight: 1
+  - name: 프로젝트
+    url: ko/projects/
+    weight: 30
+    hasChildren: true
+  - parent: 프로젝트
+    name: 전공관련
+    url: ko/major/
+    weight: 31
+  - parent: 프로젝트
+    name: 그 외 
+    url: ko/besides/
+    weight: 33
+
+  - name: 경험
+    url: ko/experiences/
+    weight: 40
+  - name: 독서
+    url: ko/readings/
+    weight: 50
+  - name: 연락
+    url: ko/contacts/
+    weight: 60
