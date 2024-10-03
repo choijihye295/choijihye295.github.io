@@ -47,9 +47,9 @@ sections:
             color: '#000'
 
     design:
-      slide_height: '350px'
+      slide_height: '400px'
       slide_width: '100px'
-      is_fullscreen: true
+      is_fullscreen: false
       loop: true
       interval: 3000
 ---
