@@ -10,13 +10,11 @@ ko:
       url: /projects
       weight: 30
       hasChildren: true
-    - parent: 프로젝트
-      name: 전공관련
-      url: /major
+    - name: 전공관련
+      url: /major  # 변경된 URL
       weight: 31
-    - parent: 프로젝트
-      name: 그 외
-      url: /besides
+    - name: 그 외
+      url: /besides  # 변경된 URL
       weight: 32
     - name: 경험
       url: /experiences
@@ -40,13 +38,11 @@ en:
       url: /projects
       weight: 30
       hasChildren: true
-    - parent: Projects
-      name: Major
-      url: /major
+    - name: Major
+      url: /major  # 변경된 URL
       weight: 31
-    - parent: Projects
-      name: Others
-      url: /besides
+    - name: Others
+      url: /besides  # 변경된 URL
       weight: 32
     - name: Experience
       url: /experiences
