@@ -5,6 +5,6 @@ draft: false
 
 cascade:
   params:
-    banner: images/project_c.jpg
+    banner: 'images/project_c.jpg'
 ---
 
