@@ -1,34 +1,14 @@
 ---
-type: widget_page
-title: "Reading"
-draft: false
+title: Reading
 
-# 배너 정보 (필요한 경우 추가)
+# Listing view
+view: community/custom_card
+
+# 배너 정보
 banner:
-  image: 'reading.jpg'  # 필요 시 배너 이미지 경로
-  caption: '[**unsplash**](https://unsplash.com/)'   # 필요 시 캡션 추가
----
+  image: 'reading.jpg'  # 배너 이미지 경로
+  caption: '[**unsplash**](https://unsplash.com/)'  # 배너 캡션
 
-## a book list
-
-### arrogance and prejudice
-- **Author:** Jane Austen  
-- **Publisher:** Construction Company  
-- **Content:** Importance of first impressions in relationships
-
----
-
-### Cosmos
-- **Author:** Karl Sagan  
-- **Publisher:** Science Books  
-- **Content:** Human curiosity about the vast universe
-
----
-
-### 1984
-- **Author:** George Orwell  
-- **Publisher:** The Classic  
-- **Content:** Individuals overpowered by a dystopian future society and huge powers
 
 ---
 
