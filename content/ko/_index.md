@@ -201,5 +201,5 @@ sections:
           description: 데이터분석 준전문가 자격증 취득함
 
     design:
-      columns: '1'
+      columns: '2'
 ---
