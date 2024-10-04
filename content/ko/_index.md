@@ -73,27 +73,27 @@ sections:
         - name: 웹 개발
           icon: code
           icon_pack: fas
-          description: <span style="font-size:100%;">웹사이트 및 웹 애플리케이션을 설계하고 구축하는 데 관심이 있습니다</span>
+          description: <div class="justify"><span style="font-size:100%;">웹사이트 및 웹 애플리케이션을 설계하고 구축하는 데 관심이 있습니다</span>
         - name: 핀테크
           icon: credit-card
           icon_pack: fas
-          description: <span style="font-size:100%;">금융과 기술의 융합을 통해 혁신적인 금융 서비스를 제공하는 분야에 관심을 가지고 있습니다.</span>
+          description: <div class="justify"><span style="font-size:100%;">금융과 기술의 융합을 통해 혁신적인 금융 서비스를 제공하는 분야에 관심을 가지고 있습니다.</span>
         - name: 소통
           icon: users
           icon_pack: fas
-          description: <span style="font-size:100%;">팀 프로젝트에서 원활한 의사소통을 통해 협력을 이루는 것을 중요하게 생각합니다</span>
+          description: <div class="justify"><span style="font-size:100%;">팀 프로젝트에서 원활한 의사소통을 통해 협력을 이루는 것을 중요하게 생각합니다</span>
         - name: 대회
           icon: star
           icon_pack: fas
-          description: <span style="font-size:100%;">각종 해커톤과 프로그래밍 대회에 참여하여 실력을 키우고 있습니다</span>
+          description: <div class="justify"><span style="font-size:100%;">각종 해커톤과 프로그래밍 대회에 참여하여 실력을 키우고 있습니다</span>
         - name: 여행
           icon: plane
           icon_pack: fas
-          description: <span style="font-size:100%;">다양한 문화와 사람들을 경험하기 위해 여행하는 것을 즐깁니다</span>
+          description: <div class="justify"><span style="font-size:100%;">다양한 문화와 사람들을 경험하기 위해 여행하는 것을 즐깁니다</span>
         - name: 독서
           icon: book-open
           icon_pack: fas
-          description: <span style="font-size:100%;">다양한 장르의 책을 읽으며 지식을 넓히고 사고의 폭을 확장하는 것을 좋아합니다</span>
+          description: <div class="justify"><span style="font-size:100%;">다양한 장르의 책을 읽으며 지식을 넓히고 사고의 폭을 확장하는 것을 좋아합니다</span>
 
 
   - block: accomplishments

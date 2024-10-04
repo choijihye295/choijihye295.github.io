@@ -208,3 +208,8 @@ ul.network-icon .big-icon {
 .book-card:hover {
   transform: translateY(-5px); /* 호버 시 위로 이동 */
 }
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
