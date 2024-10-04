@@ -1,5 +1,5 @@
 ---
-type: widget_page
+type: landing
 title: "독서"
 draft: false
 view: landing
