@@ -37,7 +37,7 @@ item:
     description: ''
     organization: 소소리
     organization_url: ''
-    title: 제주도 창업캠프
+    title: Jeju Start-up Camp
     url: ''
   - certificate_url: ''
     date_end: '2024-02-15'
@@ -45,15 +45,15 @@ item:
     description: ''
     organization: 컴계일학
     organization_url: ''
-    title: 기업의 달인
+    title: a master of enterprise
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2024-07-15'
     description: ''
-    organization: 박은송,최지혜,홍사강
+    organization: Park Eun-song, Choi Ji-hye, and Hong Sa-gang
     organization_url: ''
-    title: 엔비디아 현직자 인터뷰
+    title: Interview with Nvidia's Current Staff
     url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
  
 
