@@ -1,35 +1,54 @@
 ---
-type: widget_page
-title: "독서"
-draft: false
+widget: portfolio  # 위젯 유형으로 변경
+headless: true  # This file represents a page section.
 
 # 배너 정보 (필요한 경우 추가)
 banner:
   image: 'reading.jpg'  # 필요 시 배너 이미지 경로
   caption: "unsplash"  # 필요 시 캡션 추가
+
+# ... Put Your Section Options Here (title etc.) ...
+title: "독서"
+subtitle: ''
+
+content:
+  # Choose which content to display in the widget
+  filters:
+    # Folders to display content from
+    folders:
+      - readings  # 책 정보를 포함할 폴더
+    # Uncomment below to only show content with specific tags:
+    # tags:
+    #   - Machine Learning
+    # Uncomment below to exclude content with specific tags:
+    # exclude_tags:
+    #   - preface    
+    # Uncomment below to show specific Hugo Page kinds
+    kinds:
+      - page
+
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'  # 정렬 기준
+  sort_ascending: false
+
+  # Filter toolbar (optional).
+  filter_button:
+    - name: All
+      tag: '*'
+    # 추가적인 필터 버튼을 원하면 아래와 같이 추가
+    # - name: Deep Learning
+    #   tag: Deep Learning
+    # - name: Other
+    #   tag: Demo
+
+  # Default filter toolbar button
+  filter_default: 0
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+  # Choose a listing view
+  view: masonry
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
-
-## 책 목록
-
-### 오만과 편견
-- **저자:** 제인 오스틴  
-- **출판사:** 시공사  
-- **내용:** 인간관계에서 첫 인상의 중요성  
-
----
-
-### 코스모스
-- **저자:** 칼 세이건  
-- **출판사:** 사이언스 북스  
-- **내용:** 광활한 우주에 대한 인간의 호기심  
-
----
-
-### 1984
-- **저자:** 조지 오웰  
-- **출판사:** 더클래식  
-- **내용:** 디스토피아적인 미래사회와 거대한 권력에 제압당하는 개인  
-
----
-
-[더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
