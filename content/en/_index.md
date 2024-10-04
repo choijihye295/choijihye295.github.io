@@ -174,7 +174,7 @@ sections:
       background:
         color: '#f9f9f9'
       items:
-        - english_title: a club executive
+        - title: a club executive
           company: 필담 by Chonbuk National University Central Club
           company_url: ''
           company_logo: 
