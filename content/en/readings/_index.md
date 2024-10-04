@@ -1,6 +1,6 @@
 ---
 type: widget_page
-title: "Reading"
+title: "독서"
 draft: false
 
 # 배너 정보 (필요한 경우 추가)
@@ -9,27 +9,27 @@ banner:
   caption: "unsplash"  # 필요 시 캡션 추가
 ---
 
-## 책 목록
+## a book list
 
-### 오만과 편견
-- **저자:** 제인 오스틴  
-- **출판사:** 시공사  
-- **내용:** 인간관계에서 첫 인상의 중요성  
+### arrogance and prejudice
+- **Author:** Jane Austen  
+- **Publisher:** Construction Company  
+- **Content:** Importance of first impressions in relationships
 
 ---
 
-### 코스모스
-- **저자:** 칼 세이건  
-- **출판사:** 사이언스 북스  
-- **내용:** 광활한 우주에 대한 인간의 호기심  
+### Cosmos
+- **Author:** Karl Sagan  
+- **Publisher:** Science Books  
+- **Content:** Human curiosity about the vast universe
 
 ---
 
 ### 1984
-- **저자:** 조지 오웰  
-- **출판사:** 더클래식  
-- **내용:** 디스토피아적인 미래사회와 거대한 권력에 제압당하는 개인  
+- **Author:** George Orwell  
+- **Publisher:** The Classic  
+- **Content:** Individuals overpowered by a dystopian future society and huge powers
 
 ---
 
-[더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
+[View more books list](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
