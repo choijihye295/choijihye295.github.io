@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ if .Params.banner }}
+    <div class="banner">
+      <img src="{{ .Params.banner.image }}" alt="{{ .Params.banner.caption }}">
+      <p>{{ .Params.banner.caption }}</p>
+    </div>
+  {{ end }}
+
+  {{ .Content }}
+{{ end }}

@@ -2,7 +2,6 @@
 type: landing
 title: "독서"
 draft: false
-view: landing
 
 # 배너 정보
 banner:
