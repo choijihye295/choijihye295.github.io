@@ -9,13 +9,10 @@ banner:
   caption: "unsplash" # 필요 시 캡션 추가
 ---
 
+  ### E-mail
+  E-mail: **[choijihye295@jbnu.ac.kr](mailto:choijihye295@jbnu.ac.kr)**  
+  If you would like to send me an email, please click on the email address above.
 
-  ## 연락
-
-  ### 이메일
-  이메일: **[choijihye295@jbnu.ac.kr](mailto:choijihye295@jbnu.ac.kr)**  
-  저에게 이메일을 보내고 싶으시면 위의 이메일 주소를 클릭하세요.
-
-  ### 위치
-  위치: 전북대학교 (전북특별자치도 전주시 덕진구 백제대로 567)  
-  [전북대학교 위치 보기](https://www.google.com/maps?q=전북대학교,+전북특별자치도+전주시+덕진구+백제대로+567)
+  ### Location
+  Location: Jeonbuk National University (567, Baekje-daero, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Korea)  
+  [View Jeonbuk National University](https://www.google.com/maps?q=전북대학교,+전북특별자치도+전주시+덕진구+백제대로+567)

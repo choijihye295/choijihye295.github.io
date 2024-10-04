@@ -10,8 +10,6 @@ banner:
 ---
 
 
-  ## 연락
-
   ### 이메일
   이메일: **[choijihye295@jbnu.ac.kr](mailto:choijihye295@jbnu.ac.kr)**  
   저에게 이메일을 보내고 싶으시면 위의 이메일 주소를 클릭하세요.
