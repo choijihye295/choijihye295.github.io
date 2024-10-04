@@ -84,14 +84,16 @@ sections:
         - name: 독서
           icon: book-open
           icon_pack: fas
-          description: <span style="font-size:100%">내용추가</span>
+          description: <span style="font-size:100%">내용추가</span> <br><br><br><br>
           
 
   - block: accomplishments
     content:
       title: "주요 프로젝트"  # 제목 추가
-      subtitle: "나의 주요 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
+      subtitle: "저의 주요 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
       widget: accomplishments  # accomplishments 위젯 추가
+      background: 
+        color: '#e6f0f5'
       items:
         - certificate_url: ''
           date_end: ''
