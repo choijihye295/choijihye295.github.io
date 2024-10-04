@@ -1,11 +1,12 @@
 ---
-type: landing
 title: "독서"
 draft: false
 
+view: landing
+
 # 배너 정보
 banner:
-  image: '/reading.jpg'  # 배너 이미지 경로
+  image: 'reading.jpg'  # 배너 이미지 경로
   caption: "unsplash"  # 배너 캡션
 
 sections:
