@@ -109,7 +109,8 @@ sections:
       title: 
       subtitle: 
       text: |
-        {{% cta cta_link="./about/" cta_text="더 자세한 소개" %}}  
+        <a href="./about/" class="cta-button">더 자세한 소개</a>  
     design:
       columns: '1'
+
 ---
