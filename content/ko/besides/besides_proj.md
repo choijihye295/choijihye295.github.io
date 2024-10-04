@@ -54,7 +54,7 @@ item:
       <div class="achievement-card">
         <div class="achievement-title">엔비디아 현직자 인터뷰</div>
         <div class="achievement-organization">박은송, 최지혜, 홍사강</div>
-        <div class="achievement-date">2024-07-15 - 현재</div>
+        <div class="achievement-date">2024-07-15 - 2024-09-15</div>
         <div class="achievement-description">엔비디아 현직자와의 인터뷰 진행</div>
         <a href="https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4" class="achievement-button">자세히 보기</a>
       </div>
