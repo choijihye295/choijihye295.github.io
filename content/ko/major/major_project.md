@@ -24,29 +24,46 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
-    date_end: ''
-    date_start: '2021-01-25'
+    date_end: '2023-02-15'
+    date_start: '2022-12-01'
+    description: ''
+    organization: 공간정보
+    organization_url: ''
+    title: 공간정보 프로젝트 - 모델링
+    url: 'https://bead-hornet-56a.notion.site/2022-12-2023-02-124837148e53466bbbbc15c1a66dc405?pvs=4'
+  - certificate_url: ''
+    date_end: '2023-01-18'
+    date_start: '2022-12-01'
+    description: ''
+    organization: 공간정보
+    organization_url: ''
+    title: 공간정보 AI 경진대회
+    url: 'https://bead-hornet-56a.notion.site/AI-2022-12-2023-01-40ca1cabe58248ae84ee0f1ef082bb87'
+  - certificate_url: ''
+    date_end: '2023-06-15'
+    date_start: '2023-05-01'
     description: ''
     organization: 객체지향 프로그래밍
     organization_url: ''
-    title: Neural Networks and Deep Learning
+    title: java to do list 만들기 
     url: 'https://bead-hornet-56a.notion.site/java-team-project-2023-05-06-15-d63c3805214240cdbf6abef23f77a7ea?pvs=4'
   - certificate_url: ''
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: ''
-    title: Blockchain Fundamentals
-    url: ''
-  - certificate_url: ''
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_end: '2023-08-15'
+    date_start: '2023-06-20'
     description: ''
-    organization: DataCamp
+    organization: 3M
     organization_url: ''
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: 하계 자기설계
+    url: 'https://bead-hornet-56a.notion.site/2023-06-08-e6f6e475357f42eab892f3018fb285da?pvs=4'
+  - certificate_url: ''
+    date_end: '2023-12-10'
+    date_start: '2023-09-02'
+    description: ''
+    organization: 모바일 프로그래밍, 해커톤 
+    organization_url: ''
+    title: 실시간 이미지 번역 어플리케이션 
+    url: 'https://bead-hornet-56a.notion.site/2023-09-2023-12-e30477df581246af8cf88b6ec92a901b'
+
 
 design:
   columns: '1'
