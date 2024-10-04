@@ -70,8 +70,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+저는 전북대학교 컴퓨터공학부 22학번에 재학 중인 최지혜입니다. 최근 핀테크에 관심을 두고 있으며, 그 중에서도 비대면 거래에서의 인증과 보안에 대해 더 알아보기 위해 '코리아 핀테크위크 2024'에 참가하여 부스와 세미나를 관람했습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+이번 학기에는 농업과학원과 함께 스마트 온실과 관련한 캡스톤 프로젝트를 진행 중이며, 데이터 전처리에 대해 학습하고 있습니다.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeM.pdf" "newtab" >}}3학년 경력계획서{{< /staticref >}} 입니다. pdf로 다운받아보세요!
