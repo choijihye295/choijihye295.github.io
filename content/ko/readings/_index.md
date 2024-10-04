@@ -11,7 +11,7 @@ banner:
 
 ## 책 목록
 
-<div class="book-list">
+<div class="book-list" style="text-align: justify;">
   <div class="book-card">
     <h3>오만과 편견</h3>
     <p><strong>저자:</strong> 제인 오스틴</p>
@@ -38,4 +38,3 @@ banner:
 [더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
 
 ---
-
