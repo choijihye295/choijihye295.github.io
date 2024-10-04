@@ -99,8 +99,8 @@ sections:
 
   - block: accomplishments
     content:
-      title: "주요 프로젝트"  # 제목 추가
-      subtitle: "저의 전공 관련 주요 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
+      title: "major project"  # 제목 추가
+      subtitle: "Let me introduce the major projects related to my major."  # 필요 시 서브타이틀 추가
       widget: accomplishments  # accomplishments 위젯 추가
       background: 
         color: '#e6f0f5'
@@ -109,7 +109,7 @@ sections:
           date_end: '2023-12-10'
           date_start: '2023-09-02'
           description: ''
-          organization: 모바일 프로그래밍, 해커톤 
+          organization: 후추수정
           organization_url: ''
           title: 실시간 이미지 번역 어플리케이션 
           url: 'https://bead-hornet-56a.notion.site/2023-09-2023-12-e30477df581246af8cf88b6ec92a901b'

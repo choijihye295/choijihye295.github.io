@@ -109,7 +109,7 @@ sections:
           date_end: '2023-12-10'
           date_start: '2023-09-02'
           description: ''
-          organization: 모바일 프로그래밍, 해커톤 
+          organization: 후추수정
           organization_url: ''
           title: 실시간 이미지 번역 어플리케이션 
           url: 'https://bead-hornet-56a.notion.site/2023-09-2023-12-e30477df581246af8cf88b6ec92a901b'
