@@ -27,9 +27,9 @@ item:
     date_end: '2022-06-15'
     date_start: '2022-03-01'
     description: ''
-    organization: 스터디모임
+    organization: Study group
     organization_url: ''
-    title: 경제스터디
+    title: economic study
     url: ''
   - certificate_url: ''
     date_end: '2023-02-17'
