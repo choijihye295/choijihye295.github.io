@@ -7,7 +7,7 @@ sections:
   - block: features
     content:
       title: <span style="font-size:70%"> 최지혜 </span>
-      text: <br><span style="font-size:130%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학중인 최지혜입니다! </span> 
+      text: <br><span style="font-size:130%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학 중인 최지혜입니다! </span> 
 
   - block: markdown
     content:
@@ -67,38 +67,38 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:70%">관심있는 것</span>
+      title: <span style="font-size:70%">관심 있는 것</span>
       text: 저는 요즘 이런 것들에 관심이 있어요 <br><br> #br : 줄바꿈
       items:
         - name: 웹 개발
           icon: code
           icon_pack: fas
-          description: <span style="font-size:100%">웹사이트 및 웹 애플리케이션을 설계하고 구축하는 데 관심이 있습니다</span>
+          description: <span style="font-size:100%; display: block; text-align: justify;">웹사이트 및 웹 애플리케이션을 설계하고 구축하는 데 관심이 있습니다</span>
         - name: 핀테크
           icon: credit-card
           icon_pack: fas
-          description: <span style="font-size:100%">금융과 기술의 융합을 통해 혁신적인 금융 서비스를 제공하는 분야에 관심을 가지고 있습니다.</span>
+          description: <span style="font-size:100%; display: block; text-align: justify;">금융과 기술의 융합을 통해 혁신적인 금융 서비스를 제공하는 분야에 관심을 가지고 있습니다.</span>
         - name: 소통
           icon: users
           icon_pack: fas
-          description: <span style="font-size:100%">팀 프로젝트에서 원활한 의사소통을 통해 협력을 이루는 것을 중요하게 생각합니다</span>
+          description: <span style="font-size:100%; display: block; text-align: justify;">팀 프로젝트에서 원활한 의사소통을 통해 협력을 이루는 것을 중요하게 생각합니다</span>
         - name: 대회
           icon: star
           icon_pack: fas
-          description: <span style="font-size:100%">각종 해커톤과 프로그래밍 대회에 참여하여 실력을 키우고 있습니다</span>
+          description: <span style="font-size:100%; display: block; text-align: justify;">각종 해커톤과 프로그래밍 대회에 참여하여 실력을 키우고 있습니다</span>
         - name: 여행
           icon: plane
           icon_pack: fas
-          description: <span style="font-size:100%">다양한 문화와 사람들을 경험하기 위해 여행하는 것을 즐깁니다</span>
+          description: <span style="font-size:100%; display: block; text-align: justify;">다양한 문화와 사람들을 경험하기 위해 여행하는 것을 즐깁니다</span>
         - name: 독서
           icon: book-open
           icon_pack: fas
-          description: <span style="font-size:100%">다양한 장르의 책을 읽으며 지식을 넓히고 사고의 폭을 확장하는 것을 좋아합니다</span> <br><br><br><br>
+          description: <span style="font-size:100%; display: block; text-align: justify;">다양한 장르의 책을 읽으며 지식을 넓히고 사고의 폭을 확장하는 것을 좋아합니다</span> <br><br><br><br>
 
   - block: accomplishments
     content:
       title: "주요 프로젝트"  # 제목 추가
-      subtitle: "저의 전공관련 주요 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
+      subtitle: "저의 전공 관련 주요 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
       widget: accomplishments  # accomplishments 위젯 추가
       background: 
         color: '#e6f0f5'
@@ -129,8 +129,6 @@ sections:
           organization_url: ''
           title: 공간정보 AI 경진대회
           url: 'https://bead-hornet-56a.notion.site/AI-2022-12-2023-01-40ca1cabe58248ae84ee0f1ef082bb87'
-
- 
 
   - block: accomplishments
     content:
@@ -164,8 +162,6 @@ sections:
           organization_url: ''
           title: 엔비디아 현직자 인터뷰
           url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
-
-
 
   - block: experience
     content:
