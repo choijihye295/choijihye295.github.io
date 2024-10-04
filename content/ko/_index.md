@@ -170,7 +170,7 @@ sections:
       widget: experience  # experience 위젯 추가
       background:
         color: '#f9f9f9'
-      experience:
+      items:
         - title: 동아리 임원
           company: 전북대학교 중앙동아리 필담
           company_url: ''
