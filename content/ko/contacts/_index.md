@@ -8,11 +8,15 @@ banner:
   image: 'contact.jpg' # 필요 시 배너 이미지 경로
   caption: "unsplash" # 필요 시 캡션 추가
 
-
 sections:
+  - block: banner
+    content:
+      image: 'contact.jpg' # 배너 이미지
+      caption: "unsplash" # 배너 캡션
+
   - block: contact
     content:
-      title: Contact
+      title: 연락
       text: |-
         <br> <span style="font-size:95%">저에게 이메일을 보내시려면 아래 주소로 보내주세요.</span> <br>
       email: choijihye295@jbnu.ac.kr
