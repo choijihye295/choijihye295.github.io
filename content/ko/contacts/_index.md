@@ -7,8 +7,9 @@ draft: false
 banner:
   image: 'contact.jpg' # 필요 시 배너 이미지 경로
   caption: "unsplash" # 필요 시 캡션 추가
+  ---
 
-content: |-
+
   ## 연락
 
   ### 이메일
@@ -18,4 +19,4 @@ content: |-
   ### 위치
   위치: 전북대학교 (전북특별자치도 전주시 덕진구 백제대로 567)  
   [전북대학교 위치 보기](https://www.google.com/maps?q=전북대학교,+전북특별자치도+전주시+덕진구+백제대로+567)
----
+
