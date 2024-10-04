@@ -1,54 +1,50 @@
 ---
-widget: portfolio  # 위젯 유형으로 변경
-headless: true  # This file represents a page section.
-
-# 배너 정보 (필요한 경우 추가)
-banner:
-  image: 'reading.jpg'  # 필요 시 배너 이미지 경로
-  caption: "unsplash"  # 필요 시 캡션 추가
-
-# ... Put Your Section Options Here (title etc.) ...
+type: widget_page
 title: "독서"
-subtitle: ''
+draft: false
+view: landing
 
-content:
-  # Choose which content to display in the widget
-  filters:
-    # Folders to display content from
-    folders:
-      - .  # 현재 폴더에서 가져오도록
-    # Uncomment below to only show content with specific tags:
-    # tags:
-    #   - Machine Learning
-    # Uncomment below to exclude content with specific tags:
-    # exclude_tags:
-    #   - preface    
-    # Uncomment below to show specific Hugo Page kinds
-    kinds:
-      - page
+# 배너 정보
+banner:
+  image: 'reading.jpg'  # 배너 이미지 경로
+  caption: "unsplash"  # 배너 캡션
 
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'  # 정렬 기준
-  sort_ascending: false
+sections:
+  - block: portfolio
+    id: books  # ID를 projects에서 books로 변경
+    content:
+      title: "읽은 책"  # 섹션 제목
+      subtitle: "내가 읽은 책들"  # 섹션 부제목
+      text: "여기에서 내가 읽은 책들을 카드 형식으로 확인하세요!"
+      filters:
+        # Folders to display content from
+        folders:
+          - ko/readings  # 읽은 책 정보를 포함할 폴더
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Fiction
+          tag: Fiction
+        - name: Non-Fiction
+          tag: Non-Fiction
+    design:
+      columns: '1'  # 열 수
+      view: masonry  # 카드 뷰 설정
+      flip_alt_rows: false
 
-  # Filter toolbar (optional).
-  filter_button:
-    - name: All
-      tag: '*'
-    # 추가적인 필터 버튼을 원하면 아래와 같이 추가
-    # - name: Deep Learning
-    #   tag: Deep Learning
-    # - name: Other
-    #   tag: Demo
-
-  # Default filter toolbar button
-  filter_default: 0
-
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
-  # Choose a listing view
-  view: masonry
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
 ---
+
+[더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
