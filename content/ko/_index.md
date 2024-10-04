@@ -53,6 +53,8 @@ sections:
       loop: true
       interval: 3000
   
+  #https://bootstrap.hugoblox.com/blocks/features/
+  
   - block: features
     id: features
     content:
