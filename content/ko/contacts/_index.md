@@ -9,11 +9,6 @@ banner:
   caption: "unsplash" # 필요 시 캡션 추가
 
 sections:
-  - block: banner
-    content:
-      image: 'contact.jpg' # 배너 이미지
-      caption: "unsplash" # 배너 캡션
-
   - block: contact
     content:
       title: 연락
