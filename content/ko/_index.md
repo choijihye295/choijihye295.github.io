@@ -63,6 +63,27 @@ sections:
           icon: code
           icon_pack: fas
           description: <span style="font-size:100%">내용추가</span>
+        - name: 핀테크
+          icon: credit-card
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
+        - name: 소통
+          icon: users
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
+        - name: 대회
+          icon: star
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
+        - name: 여행
+          icon: plane
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
+        - name: 독서
+          icon: book-open
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
+          
 
   - block: accomplishments
     content:
