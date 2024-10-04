@@ -22,28 +22,55 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: 광양여행
+    company: ''
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: 
+    location: 광양
+    date_start: '2024-03-15'
+    date_end: '2024-03-16'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * 시고르베이글
+        * 광양 매화축제
+        * 전남 도립미술관, 광양예술창고
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: 순천여행
+    company: ''
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 순천
+    date_start: '2024-05-19'
+    date_end: '2024-05-17'
+    description: |2-
+        * 순천만습지
+        * 순천만국가정원
+        * 문화의 거리
+
+  - title: 서울여행
+    company: ''
+    company_url: ''
+    company_logo: 
+    location: 서울
+    date_start: '2024-07-15'
+    date_end: '2024-07-15'
+    description: |2-
+        * 코엑스
+        * 한국은행 화폐박물관
+        * AK플라자
+
+  - title: 서울여행
+    company: ''
+    company_url: ''
+    company_logo: 
+    location: 서울
+    date_start: '2024-08-29'
+    date_end: '2024-08-27'
+    description: |2-
+        * 코리아핀테크위크 2024
+        * 동대문 ddp
+        * 동대문 종합상가
+
+  
 
 design:
   columns: '1'
