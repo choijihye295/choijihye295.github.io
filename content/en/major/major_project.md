@@ -27,7 +27,7 @@ item:
     date_end: '2023-02-15'
     date_start: '2022-12-01'
     description: ''
-    organization: 공간정보
+    organization: Spatial information
     organization_url: ''
     title: 공간정보 프로젝트 - 모델링
     url: 'https://bead-hornet-56a.notion.site/2022-12-2023-02-124837148e53466bbbbc15c1a66dc405?pvs=4'
@@ -35,9 +35,9 @@ item:
     date_end: '2023-01-18'
     date_start: '2022-12-01'
     description: ''
-    organization: 공간정보
+    organization: Spatial information
     organization_url: ''
-    title: 공간정보 AI 경진대회
+    title: Geospatial Information AI Competition
     url: 'https://bead-hornet-56a.notion.site/AI-2022-12-2023-01-40ca1cabe58248ae84ee0f1ef082bb87'
   - certificate_url: ''
     date_end: '2023-06-15'
@@ -53,7 +53,7 @@ item:
     description: ''
     organization: 3M
     organization_url: ''
-    title: 하계 자기설계, 큰사람프로젝트 앱 개발 
+    title: Summer Self-Design, Development of Big People Project App
     url: 'https://bead-hornet-56a.notion.site/2023-06-08-e6f6e475357f42eab892f3018fb285da?pvs=4'
   - certificate_url: ''
     date_end: '2023-12-10'
@@ -61,7 +61,7 @@ item:
     description: ''
     organization: 후추수정 
     organization_url: ''
-    title: 실시간 이미지 번역 어플리케이션 
+    title: Real-time Image Translation Application
     url: 'https://bead-hornet-56a.notion.site/2023-09-2023-12-e30477df581246af8cf88b6ec92a901b'
 
 
