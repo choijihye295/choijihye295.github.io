@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 코리아 핀테크위크 2024
-    company: 금융위원회
+  - title: Korea Fintech Week 2024
+    company: Financial Services Commission
     company_url: 'https://2024.fintechweek.or.kr/ko/'
     company_logo: 
-    location: 서울 동대문디자인플라자(DDP)
+    location: Dongdaemun Design Plaza, DDP
     date_start: '2024-08-27'
     date_end: '2024-08-29'
     description: |2-
-        * 세미나 참여
-        * 부스 참여
+        * Participation in Seminar
+        * Participation in the booths
 
 design:
   columns: '1'
