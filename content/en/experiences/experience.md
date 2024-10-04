@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: a trip to Gwangyang
+  - title: Gwangyang travel
     company: ''
     company_url: ''
     company_logo: 
@@ -34,7 +34,7 @@ experience:
         * Gwangyang Plum Blossom Festival
         * Jeonnam Museum of Art, Gwangyang Art Warehouse
 
-  - title: a trip to Suncheon
+  - title: Suncheon travel
     company: ''
     company_url: ''
     company_logo: 
@@ -42,33 +42,33 @@ experience:
     date_start: '2024-05-19'
     date_end: '2024-05-17'
     description: |2-
-        * 순천만습지
-        * 순천만국가정원
-        * 문화의 거리
+        * Suncheon Bay Wetland that mud flat alive and reed dance
+        * Model of Garden Culture, The Suncheonman National Garden
+        * street of culture
 
-  - title: 서울여행
+  - title: Seoul travel
     company: ''
     company_url: ''
     company_logo: 
-    location: 서울
+    location: Seoul
     date_start: '2024-07-15'
     date_end: '2024-07-15'
     description: |2-
-        * 코엑스
-        * 한국은행 화폐박물관
-        * AK플라자
+        * COEX, COnvention & EXhibition
+        * Bank of Korea Money Museum
+        * Aekyung Group Retail Division
 
-  - title: 서울여행
+  - title: Seoul travel
     company: ''
     company_url: ''
     company_logo: 
-    location: 서울
+    location: Seoul
     date_start: '2024-08-29'
     date_end: '2024-08-27'
     description: |2-
-        * 코리아핀테크위크 2024
-        * 동대문 ddp
-        * 동대문 종합상가
+        * Korea Fintech Week 2024
+        * Dongdaemun Design Plaza, DDP
+        * Dongdaemun Shopping Complex
 
   
 
