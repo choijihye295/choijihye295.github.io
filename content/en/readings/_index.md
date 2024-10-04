@@ -1,6 +1,6 @@
 ---
 type: widget_page
-title: "독서"
+title: "Reading"
 draft: false
 
 # 배너 정보 (필요한 경우 추가)

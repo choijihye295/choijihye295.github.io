@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 광양여행
+  - title: a trip to Gwangyang
     company: ''
     company_url: ''
     company_logo: 
-    location: 광양
+    location: Gwangyang
     date_start: '2024-03-15'
     date_end: '2024-03-16'
     description: |2-
-        * 시고르베이글
-        * 광양 매화축제
-        * 전남 도립미술관, 광양예술창고
+        * Sigour bagel
+        * Gwangyang Plum Blossom Festival
+        * Jeonnam Museum of Art, Gwangyang Art Warehouse
 
-  - title: 순천여행
+  - title: a trip to Suncheon
     company: ''
     company_url: ''
     company_logo: 
-    location: 순천
+    location: Suncheon
     date_start: '2024-05-19'
     date_end: '2024-05-17'
     description: |2-
