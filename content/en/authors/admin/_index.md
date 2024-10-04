@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 전북대학교
+- name: Jeonbuk National University
   url: "https://www.jbnu.ac.kr/kor/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 전북대학교 컴퓨터공학부 22학번
+bio: Department of Computer Engineering, Jeonbuk National University
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
@@ -70,8 +70,8 @@ social:
 #email: ""
 ---
 
-저는 전북대학교 컴퓨터공학부 22학번에 재학 중인 최지혜입니다. 최근 핀테크에 관심을 두고 있으며, 그 중에서도 비대면 거래에서의 인증과 보안에 대해 더 알아보기 위해 '코리아 핀테크위크 2024'에 참가하여 부스와 세미나를 관람했습니다.
+I'm Jihye Choi, and I'm majoring in computer engineering at Jeonbuk National University. Recently, I'm interested in fintech, and among them, I participated in 'Korea Fintech Week 2024' to see more about certification and security in non-face-to-face transactions and watched booths and seminars.
 
-이번 학기에는 농업과학원과 함께 스마트 온실과 관련한 캡스톤 프로젝트를 진행 중이며, 데이터 전처리에 대해 학습하고 있습니다.
+This semester, we are working on a capstone project related to smart greenhouses with the Agricultural Science Institute, and we are learning about data preprocessing.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeM.pdf" "newtab" >}}3학년 경력계획서{{< /staticref >}} 입니다. pdf로 다운받아보세요!
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resumeM.pdf" "newtab" >}}a third-year career plan{{< /staticref >}} Download it to pdf!
