@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Spatial information
     organization_url: ''
-    title: 공간정보 프로젝트 - 모델링
+    title: Geospatial Information Project - Modeling
     url: 'https://bead-hornet-56a.notion.site/2022-12-2023-02-124837148e53466bbbbc15c1a66dc405?pvs=4'
   - certificate_url: ''
     date_end: '2023-01-18'
@@ -43,9 +43,9 @@ item:
     date_end: '2023-06-15'
     date_start: '2023-05-01'
     description: ''
-    organization: 객체지향 프로그래밍
+    organization: OOP
     organization_url: ''
-    title: java to do list 만들기 
+    title: Create java to do list
     url: 'https://bead-hornet-56a.notion.site/java-team-project-2023-05-06-15-d63c3805214240cdbf6abef23f77a7ea?pvs=4'
   - certificate_url: ''
     date_end: '2023-08-15'
