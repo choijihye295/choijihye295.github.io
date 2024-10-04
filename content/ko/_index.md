@@ -59,7 +59,7 @@ sections:
     id: features
     content:
       title: <span style="font-size:70%">관심있는 것</span>
-      text: 저는 요즘 이런 것들에 관심이 있어요 
+      text: <span style="margin-bottom: 20px; display: block;">저는 요즘 이런 것들에 관심이 있어요</span>  # margin을 추가하여 간격을 띄웁니다.
       items:
         - name: 웹 개발
           icon: code
@@ -85,6 +85,7 @@ sections:
           icon: book-open
           icon_pack: fas
           description: <span style="font-size:100%">내용추가</span>
+
           
 
   - block: accomplishments
