@@ -10,31 +10,26 @@ banner:
 ---
 
 ## 책 목록
-<!-- 텍스트 양쪽정렬 -->
-<div class="book-list" style="text-align: justify;"> 
-  <div class="book-card">
-    <h3>오만과 편견</h3>
-    <p><strong>저자:</strong> 제인 오스틴</p>
-    <p><strong>출판사:</strong> 시공사</p>
-    <p>인간관계에서 첫 인상의 중요성</p>
-  </div>
-  
-  <div class="book-card">
-    <h3>코스모스</h3>
-    <p><strong>저자:</strong> 칼 세이건</p>
-    <p><strong>출판사:</strong> 사이언스 북스</p>
-    <p>광활한 우주에 대한 인간의 호기심</p>
-  </div>
-  
-  <div class="book-card">
-    <h3>1984</h3>
-    <p><strong>저자:</strong> 조지 오웰</p>
-    <p><strong>출판사:</strong> 더클래식</p>
-    <p>디스토피아 적인 미래사회와 거대한 권력에 제압당하는 개인</p>
-  </div>
-</div>
-<br><br><br><br>
 
-[더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
+### 오만과 편견
+- **저자:** 제인 오스틴  
+- **출판사:** 시공사  
+- **내용:** 인간관계에서 첫 인상의 중요성  
 
 ---
+
+### 코스모스
+- **저자:** 칼 세이건  
+- **출판사:** 사이언스 북스  
+- **내용:** 광활한 우주에 대한 인간의 호기심  
+
+---
+
+### 1984
+- **저자:** 조지 오웰  
+- **출판사:** 더클래식  
+- **내용:** 디스토피아적인 미래사회와 거대한 권력에 제압당하는 개인  
+
+---
+
+[더 많은 읽은 책 목록 보기](https://bead-hornet-56a.notion.site/My-book-List-a4f24f3ec3794b76827d5f0b02cc4427?pvs=4) <!-- 링크 추가 -->
