@@ -14,7 +14,9 @@ sections:
       title: 
       subtitle: 
       text: |
-        <a href="./about/" class="cta-button">더 자세한 소개</a>  
+        <div style="text-align: center;">
+          <a href="./about/" class="cta-button">더 자세한 소개</a>  
+        </div>
     design:
       columns: '1'
 
