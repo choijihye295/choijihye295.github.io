@@ -6,8 +6,8 @@ type: landing
 sections:
   - block: features
     content:
-      title: <span style="font-size:70%"> 최지혜 </span>
-      text: <br><span style="font-size:130%">👋 안녕하세요! 전북대학교 컴퓨터공학부에 재학 중인 최지혜입니다! </span> 
+      title: <span style="font-size:70%"> JiHye Choi </span>
+      text: <br><span style="font-size:130%">👋 Hello! I'm Choi Ji-hye, majoring in computer engineering at Chonbuk National University! </span> 
 
   - block: markdown
     content:
@@ -15,7 +15,7 @@ sections:
       subtitle: 
       text: |
         <div style="text-align: center;">
-          <a href="./about/" class="cta-button">더 자세한 소개</a>  
+          <a href="./about/" class="cta-button">More detailed introduction</a>  
         </div>
     design:
       columns: '1'
@@ -24,8 +24,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:70%">핀테크</span>
-          content: <span style="font-size:70%">전통적인 금융 서비스에 IT기술 접목</span>
+        - title: <span style="font-size:70%">Fintech</span>
+          content: <span style="font-size:70%">Incorporating IT technology into traditional financial services</span>
           align: center
           background:
             image:
@@ -35,8 +35,8 @@ sections:
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%">웹개발</span>
-          content: <span style="font-size:70%">웹 사이트나 웹 애플리케이션 설계, 구축 및 유지 관리</span>
+        - title: <span style="font-size:70%">Web development</span>
+          content: <span style="font-size:70%">Web site or Web application design, build and maintenance</span>
           align: center
           background:
             image:
@@ -46,8 +46,8 @@ sections:
             position: center
             color: '#000'
 
-        - title: <span style="font-size:70%">소통</span>
-          content: <span style="font-size:70%">프로젝트에서 팀원 간의 이해와 협동을 강화하여 성공적인 결과를 이끌어내는 핵심 요소</span>
+        - title: <span style="font-size:70%">Communication</span>
+          content: <span style="font-size:70%">Key factors that enhance understanding and collaboration among team members in the project, resulting in successful results</span>
           align: center
           background:
             image:
@@ -67,33 +67,33 @@ sections:
   - block: features
     id: features
     content:
-      title: <span style="font-size:70%">관심 있는 것</span>
-      text: <div class="justify">저는 요즘 이런 것들에 관심이 있어요</div> <br><br> #br : 줄바꿈
+      title: <span style="font-size:70%">a thing of interest</span>
+      text: <div class="justify">I'm interested in these things these days</div> <br><br> #br : 줄바꿈
       items:
-        - name: 웹 개발
+        - name: Web development
           icon: code
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">웹사이트 및 웹 애플리케이션을 설계하고 구축하는 데 관심이 있습니다</span></div>
-        - name: 핀테크
+          description: <div class="justify"><span style="font-size:100%;">I'm interested in designing and building websites and web applications</span></div>
+        - name: Fintech
           icon: credit-card
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">금융과 기술의 융합을 통해 혁신적인 금융 서비스를 제공하는 분야에 관심을 가지고 있습니다.</span></div>
-        - name: 소통
+          description: <div class="justify"><span style="font-size:100%;">We are interested in providing innovative financial services through the convergence of finance and technology</span></div>
+        - name: Communication
           icon: users
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">팀 프로젝트에서 원활한 의사소통을 통해 협력을 이루는 것을 중요하게 생각합니다</span></div>
-        - name: 대회
+          description: <div class="justify"><span style="font-size:100%;">I think it is important to achieve cooperation through smooth communication in team projects</span></div>
+        - name: Contest
           icon: star
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">각종 해커톤과 프로그래밍 대회에 참여하여 실력을 키우고 있습니다</span></div>
-        - name: 여행
+          description: <div class="justify"><span style="font-size:100%;">I'm improving my skills by participating in various hackathon and programming competitions</span></div>
+        - name: Trip
           icon: plane
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">다양한 문화와 사람들을 경험하기 위해 여행하는 것을 즐깁니다</span></div>
-        - name: 독서
+          description: <div class="justify"><span style="font-size:100%;">I enjoy traveling to experience different cultures and people</span></div>
+        - name: Reading
           icon: book-open
           icon_pack: fas
-          description: <div class="justify"><span style="font-size:100%;">다양한 장르의 책을 읽으며 지식을 넓히고 사고의 폭을 확장하는 것을 좋아합니다</span></div>
+          description: <div class="justify"><span style="font-size:100%;">I like to read books of various genres to expand my knowledge and expand my thinking</span></div>
 
 
 
