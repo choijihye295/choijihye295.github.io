@@ -53,7 +53,7 @@ item:
     description: ''
     organization: 3M
     organization_url: ''
-    title: 하계 자기설계
+    title: 하계 자기설계, 큰사람프로젝트 앱 개발 
     url: 'https://bead-hornet-56a.notion.site/2023-06-08-e6f6e475357f42eab892f3018fb285da?pvs=4'
   - certificate_url: ''
     date_end: '2023-12-10'
