@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 온기우체부 활동 
-    company: 사단법인 온기
+  - title: Ongi Postman Activities
+    company: corporation, ongi
     company_url: 'https://ongibox.co.kr/'
     company_logo: 
     location: 
     date_start: '2024-07-15'
     date_end: '2024-09-30'
-    description: 익명의 편지에 따뜻한 온기가 담긴 답장을 전달해주는 봉사활동
+    description: Volunteer work to deliver warm and warm replies to anonymous letters
 
  
 
