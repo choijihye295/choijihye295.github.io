@@ -10,8 +10,8 @@ banner:
 ---
 
 ## 책 목록
-
-<div class="book-list" style="text-align: justify;">
+<!-- 텍스트 양쪽정렬 -->
+<div class="book-list" style="text-align: justify;"> 
   <div class="book-card">
     <h3>오만과 편견</h3>
     <p><strong>저자:</strong> 제인 오스틴</p>
