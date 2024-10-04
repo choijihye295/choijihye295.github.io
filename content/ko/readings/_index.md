@@ -16,7 +16,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - readings  # 책 정보를 포함할 폴더
+      - .  # 현재 폴더에서 가져오도록
     # Uncomment below to only show content with specific tags:
     # tags:
     #   - Machine Learning
