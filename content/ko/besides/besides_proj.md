@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 그외
+title: 
 subtitle:
 
 # Date format
@@ -23,30 +23,47 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: ''
+    date_end: '2022-06-15'
+    date_start: '2022-03-01'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: 스터디모임
+    organization_url: ''
+    title: 경제스터디
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: ''
+    date_end: '2023-02-17'
+    date_start: '2023-02-14'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: 소소리
+    organization_url: ''
+    title: 제주도 창업캠프
     url: ''
+  - certificate_url: ''
+    date_end: '2024-02-15'
+    date_start: '2023-12-01'
+    description: ''
+    organization: 컴계일학
+    organization_url: ''
+    title: 기업의 달인
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2024-07-15'
+    description: ''
+    organization: 박은송,최지혜,홍사강
+    organization_url: ''
+    title: 엔비디아 현직자 인터뷰
+    url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
+  - certificate_url: ''
+    date_end: '2024-09-30'
+    date_start: '2024-07-14'
+    description: ''
+    organization: 온기
+    organization_url: ''
+    title: 온기우체부 활동
+    url: 'https://ongibox.co.kr/'
+
 
 design:
   columns: '1'
