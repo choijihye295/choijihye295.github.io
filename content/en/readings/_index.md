@@ -6,7 +6,7 @@ draft: false
 # 배너 정보 (필요한 경우 추가)
 banner:
   image: 'reading.jpg'  # 필요 시 배너 이미지 경로
-  caption: "unsplash"  # 필요 시 캡션 추가
+  caption: '[**unsplash**](https://unsplash.com/)'   # 필요 시 캡션 추가
 ---
 
 ## a book list

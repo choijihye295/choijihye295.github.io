@@ -1,6 +1,5 @@
 ---
 title: 독서
-draft: false
 
 # Listing view
 view: community/custom_card
@@ -8,7 +7,7 @@ view: community/custom_card
 # 배너 정보
 banner:
   image: 'reading.jpg'  # 배너 이미지 경로
-  caption: "unsplash"  # 배너 캡션
+  caption: '[**unsplash**](https://unsplash.com/)'  # 배너 캡션
 
 
 ---
