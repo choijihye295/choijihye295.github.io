@@ -130,8 +130,7 @@ sections:
           title: 공간정보 AI 경진대회
           url: 'https://bead-hornet-56a.notion.site/AI-2022-12-2023-01-40ca1cabe58248ae84ee0f1ef082bb87'
 
-  - block: empty
-    content: {}
+ 
 
   - block: accomplishments
     content:
@@ -166,8 +165,7 @@ sections:
           title: 엔비디아 현직자 인터뷰
           url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
 
-  - block: empty
-    content: {}
+
 
   - block: experience
     content:
