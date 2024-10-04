@@ -216,7 +216,14 @@ ul.network-icon .big-icon {
   margin: 15px; /* 카드 간격 */
   overflow: hidden; /* 내용이 카드 영역을 넘지 않도록 */
   background-color: white; /* 카드 배경색 */
+  transition: transform 0.2s ease, box-shadow 0.2s ease; /* 애니메이션 효과 */
 }
+
+.card:hover {
+  transform: translateY(-5px); /* 마우스 오버 시 카드 위로 이동 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 마우스 오버 시 그림자 강도 증가 */
+}
+
 
 .card-image {
   position: relative; /* 이미지 위치 조정 */
