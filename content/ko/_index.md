@@ -103,4 +103,13 @@ sections:
           organization_url: ''
           title: Neural Networks and Deep Learning
           url: 'https://bead-hornet-56a.notion.site/java-team-project-2023-05-06-15-d63c3805214240cdbf6abef23f77a7ea?pvs=4'
+
+  - block: markdown
+    content:
+      title: 
+      subtitle: 
+      text: |
+        {{% cta cta_link="./about/" cta_text="더 자세한 소개" %}}  
+    design:
+      columns: '1'
 ---
