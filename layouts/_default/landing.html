@@ -6,7 +6,13 @@
     </div>
   {{ end }}
 
-  <div class="content">
-    {{ .Content }}
-  </div>
+  {{ range .Sections }}
+    <div class="section">
+      <h2>{{ .Title }}</h2>
+      <h3>{{ .Params.subtitle }}</h3>
+      <p>{{ .Params.text }}</p>
+      {{ partial .Params.block . }}
+    </div>
+  {{ end }}
+
 {{ end }}
