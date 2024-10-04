@@ -64,8 +64,6 @@ sections:
       loop: true
       interval: 3000
   
-  #https://bootstrap.hugoblox.com/blocks/features/
-  
   - block: features
     id: features
     content:
@@ -165,4 +163,43 @@ sections:
           title: 엔비디아 현직자 인터뷰
           url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
 
+  - block: experience
+    content:
+      title: 경력 
+      subtitle:
+      widget: experience  # experience 위젯 추가
+      background:
+        color: '#f9f9f9'
+      experience:
+        - title: 동아리 임원
+          company: 전북대학교 중앙동아리 필담
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-04-01'
+          date_end: '2022-12-01'
+          description: |2-
+              * 동아리 홍보부스 운영
+              * 정기 전시 기획 및 참여
+
+        - title: 동아리 스터디 멘토
+          company: 전북대학교 컴퓨터공학부 과동아리 who
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2023-03-01'
+          date_end: '2023-06-30'  # 수정된 날짜
+          description: C언어 스터디 멘토링 활동에서 멘토로 참여함
+
+        - title: ADsP
+          company: 데이터자격시험
+          company_url: 'https://www.dataq.or.kr/www/main.do'
+          company_logo: 
+          location: 
+          date_start: '2024-07-01'
+          date_end: '2024-08-10'
+          description: 데이터분석 준전문가 자격증 취득함
+
+    design:
+      columns: '1'
 ---
