@@ -1,0 +1,6 @@
+<div class="banner">
+    {{ with .Params.banner }}
+    <img src="{{ .image }}" alt="{{ .caption }}">
+    <figcaption>{{ .caption }}</figcaption>
+    {{ end }}
+</div>
