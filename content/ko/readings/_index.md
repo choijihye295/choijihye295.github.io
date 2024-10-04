@@ -13,24 +13,24 @@ banner:
 
 <div class="book-list">
   <div class="book-card">
-    <h3>책 제목 1</h3>
-    <p><strong>저자:</strong> 저자 1</p>
-    <p><strong>출판사:</strong> 출판사 1</p>
-    <p>간단한 설명 1</p>
+    <h3>오만과 편견</h3>
+    <p><strong>저자:</strong> 제인 오스틴</p>
+    <p><strong>출판사:</strong> 시공사</p>
+    <p>인간관계에서 첫 인상의 중요성</p>
   </div>
   
   <div class="book-card">
-    <h3>책 제목 2</h3>
-    <p><strong>저자:</strong> 저자 2</p>
-    <p><strong>출판사:</strong> 출판사 2</p>
-    <p>간단한 설명 2</p>
+    <h3>코스모스</h3>
+    <p><strong>저자:</strong> 칼 세이건</p>
+    <p><strong>출판사:</strong> 사이언스 북스</p>
+    <p>광활한 우주에 대한 인간의 호기심</p>
   </div>
   
   <div class="book-card">
-    <h3>책 제목 3</h3>
-    <p><strong>저자:</strong> 저자 3</p>
-    <p><strong>출판사:</strong> 출판사 3</p>
-    <p>간단한 설명 3</p>
+    <h3>1984</h3>
+    <p><strong>저자:</strong> 조지 오웰</p>
+    <p><strong>출판사:</strong> 더클래식</p>
+    <p>디스토피아 적인 미래사회와 거대한 권력에 제압당하는 개인</p>
   </div>
 </div>
 <br><br><br><br>
