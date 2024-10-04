@@ -226,6 +226,16 @@ ul.network-icon .big-icon {
   padding: 15px; /* 텍스트 패딩 */
 }
 
+.content {
+  max-width: 800px; /* 최대 너비 설정 */
+  margin: 0 auto; /* 중앙 정렬 */
+  padding: 20px; /* 내부 여백 */
+}
+
+.card-text {
+  padding: 15px; /* 카드 내부 텍스트 패딩 */
+}
+
 
 
 // Center the CTA shortcode button
