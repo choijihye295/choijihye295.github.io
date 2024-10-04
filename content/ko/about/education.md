@@ -47,8 +47,8 @@ experience:
     company_url: 'https://www.dataq.or.kr/www/main.do'
     company_logo: 
     location: 
-    date_start: '2024'
-    date_end: ''
+    date_start: '2024-07-01'
+    date_end: '2024-08-10'
     description: 데이터분석 준전문가 자격증 취득함
 
 design:
