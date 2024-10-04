@@ -1,6 +1,6 @@
 # [Choijihye Portfolio](https://choijihye295.github.io/)
 
-[![Screenshot](preview.png)](https://choijihye295.github.io/)
+[![Screenshot](preview_c.png)](https://choijihye295.github.io/)
 
 이 **Choijihye Portfolio**는 저에 대한 소개와 제가 지금까지 했던 프로젝트, 경험 등에 대한 홈페이지 입니다.
 
