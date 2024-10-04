@@ -33,14 +33,13 @@ experience:
         * 동아리 홍보부스 운영
         * 정기 전시 기획 및 참여
 
-
   - title: 동아리 스터디 멘토
     company: 전북대학교 컴퓨터공학부 과동아리 who
     company_url: ''
     company_logo: 
     location: 
     date_start: '2023-03-01'
-    date_end: '2023-06-31'
+    date_end: '2023-06-30'  # 수정된 날짜
     description: C언어 스터디 멘토링 활동에서 멘토로 참여함
 
   - title: ADsP
