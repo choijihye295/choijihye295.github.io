@@ -2,37 +2,14 @@
 title: 
 draft: false
 
-view: landing
+# Listing view
+view: community/custom_card
 
 # 배너 정보
 banner:
   image: 'reading.jpg'  # 배너 이미지 경로
   caption: "unsplash"  # 배너 캡션
 
-  sections:
-  - block: portfolio
-    id: books  # ID를 books로 변경
-    content:
-      title: "읽은 책"
-      subtitle: "내가 읽은 책들"
-      text: "여기에서 내가 읽은 책들을 카드 형식으로 확인하세요!"
-      filters:
-        folders:
-          - ko/readings  # 읽은 책 정보를 포함할 폴더
-        tags: []
-        exclude_tags: []
-        kinds:
-          - page
-      sort_by: 'Date'
-      sort_ascending: false
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-    design:
-      columns: '1'
-      view: masonry
-      flip_alt_rows: false
 
 ---
 
