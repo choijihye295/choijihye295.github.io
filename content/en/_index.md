@@ -174,7 +174,7 @@ sections:
       background:
         color: '#f9f9f9'
       items:
-        - title: a club executive
+        - english_title: a club executive
           company: 필담 by Chonbuk National University Central Club
           company_url: ''
           company_logo: 
@@ -202,6 +202,7 @@ sections:
           date_start: '2024-07-01'
           date_end: '2024-08-10'
           description: Obtained ADsP certificate
+
     design:
       columns: '2'
 ---
