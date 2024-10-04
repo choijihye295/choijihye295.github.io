@@ -20,7 +20,7 @@ sections:
     design:
       columns: '1'
 
-# 모든 이미지는 unsplash에서 다운로드 받았습니다. 
+  # 모든 이미지는 unsplash에서 다운로드 받았습니다. 
   - block: slider
     content:
       slides:
@@ -96,7 +96,6 @@ sections:
           icon: book-open
           icon_pack: fas
           description: <span style="font-size:100%">내용추가</span> <br><br><br><br>
-          
 
   - block: accomplishments
     content:
@@ -133,6 +132,37 @@ sections:
           title: 공간정보 AI 경진대회
           url: 'https://bead-hornet-56a.notion.site/AI-2022-12-2023-01-40ca1cabe58248ae84ee0f1ef082bb87'
 
-  
+  - block: accomplishments
+    content:
+      title: "전공 외 프로젝트"  # 제목 추가
+      subtitle: "저의 전공 외 수행했던 다양한 프로젝트를 소개합니다."  # 필요 시 서브타이틀 추가
+      widget: accomplishments  # accomplishments 위젯 추가
+      background: 
+        color: '#e6f0f5'
+      items:
+        - certificate_url: ''
+          date_end: '2023-02-17'
+          date_start: '2023-02-14'
+          description: ''
+          organization: 소소리
+          organization_url: ''
+          title: 제주도 창업캠프
+          url: ''
+        - certificate_url: ''
+          date_end: '2024-02-15'
+          date_start: '2023-12-01'
+          description: ''
+          organization: 컴계일학
+          organization_url: ''
+          title: 기업의 달인
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-07-15'
+          description: ''
+          organization: 박은송, 최지혜, 홍사강
+          organization_url: ''
+          title: 엔비디아 현직자 인터뷰
+          url: 'https://bead-hornet-56a.notion.site/4a9c3041159e494a98762a3d12e63b2e?pvs=4'
 
 ---
