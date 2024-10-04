@@ -52,6 +52,17 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 3000
+  
+  - block: features
+    id: features
+    content:
+      title: <span style="font-size:70%">관심있는 것</span>
+      text: 저는 요즘 이런 것들에 관심이 있어요 
+      items:
+        - name: 웹 개발
+          icon: code
+          icon_pack: fas
+          description: <span style="font-size:100%">내용추가</span>
 
   - block: accomplishments
     content:
